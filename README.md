@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dale Myers.
-- 👀 I’m interested in coding, tech, comic books, and videogames.
+- 👀 I’m interested in coding, tech, comic books, and video games.
 - 🌱 I’m currently learning HTML5, CSS, Javascript, and REACT.
 - 💞️ I’m looking to collaborate on any outsourcing projects on any of the topics that I'm currently studying and working with teams from all sorts of backgrounds.
 - 📫 I'm reachable at either dalemyers901@gmail.com or (901)267-6083.
